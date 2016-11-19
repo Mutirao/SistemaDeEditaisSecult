@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Mutirao/Sistema-Editais.png?label=ready&title=Ready)](https://waffle.io/Mutirao/Sistema-Editais)
 Botar para frente:
 
 - Realização dos editais da Secult, a serem lançados entre  agosto e novembro de 2016, na plataforma Mapas Culturais.
